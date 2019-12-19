@@ -1,3 +1,9 @@
+---
+description: >-
+  Surge for macOS 是目前 macOS 平台上实现了 NE 的成品客户端软件，虽然有大量其他软件也实现了 NE 支持，但其可能不支持 「厘米云」
+  使用的协议或配置繁琐，功能不完整和存在稳定性问题。
+---
+
 # Surge 使用教程
 
 {% hint style="info" %}

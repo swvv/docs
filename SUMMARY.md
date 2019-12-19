@@ -1,6 +1,7 @@
 # Table of contents
 
 * [欢迎](README.md)
+* [中转设置](relay.md)
 
 ## Windows 相关 <a id="windows"></a>
 

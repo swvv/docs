@@ -33,15 +33,15 @@ Surge for macOS 的授权是与 iOS 互不关联的，需要单独购买。
 如果使用本站 Enterprise 订阅请跳过此步骤
 {% endhint %}
 
-1. 在用户中心首页选择`Surge 托管配置` 之后点击 `复制 Surge 4 托管配置链接` 
+* 在用户中心首页选择`Surge 托管配置` 之后点击 `复制 Surge 4 托管配置链接` 
 
 ![](../.gitbook/assets/20bc97b8-79a0-4d93-a419-d15b787b14d7.png)
 
-1. 在 Surge 面板切换到 `设置` 页面，点击`配置按钮` 
+* 在 Surge 面板切换到 `设置` 页面，点击`配置按钮` 
 
 ![](../.gitbook/assets/qq20191219-125757.png)
 
-1. 点击 `Install from URL...` ，在弹窗页面填入刚刚复制的地址
+* 点击 `Install from URL...` ，在弹窗页面填入刚刚复制的地址
 
 ![](../.gitbook/assets/qq20191219-130029.png)
 
@@ -52,12 +52,22 @@ Surge for macOS 的授权是与 iOS 互不关联的，需要单独购买。
 ![](../.gitbook/assets/72e646ea-c94b-48b2-9bfe-052ce36490a9.png)
 
 {% hint style="warning" %}
-如果你是用的自购买授权或许这里的配置文件名为 `IPLCM.conf` 
+如果你是用的自购买授权或许这里的配置文件名为 `IPLCM.conf`
 {% endhint %}
 
 ## 节点选择
 
+通过右击 Surge 菜单栏图标来快速的选择图标与您的出站方式
 
+![](../.gitbook/assets/qq20191219-131556.png)
 
+## 代理启用
 
+在系统菜单栏中右击 Surge 图标，下滑找到 `设置为系统代理` ，并将其选中
+
+![](../.gitbook/assets/qq20191219-131829.png)
+
+{% hint style="warning" %}
+此外，某些应用程序可能不遵循系统代理（如终端）。对于这部分应用程序，如果需要其流量通过 「厘米云」 网络，你需要打开 Surge 的「增强模式」。
+{% endhint %}
 

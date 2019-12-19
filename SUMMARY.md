@@ -2,7 +2,7 @@
 
 * [欢迎](README.md)
 * [中转设置](relay.md)
-* [客户端下载](ke-hu-duan-xia-zai.md)
+* [客户端下载](download.md)
 
 ## Windows 相关 <a id="windows"></a>
 

@@ -25,7 +25,7 @@ description: 在 Windows 上通过 Clash for Windows 应用程序来配置 「�
 ## 下载安装 <a id="download"></a>
 
 * 最新 GitHub Releases：[Fndroid](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-* 本站托管下载：[Clash for Windows 0.8.6](https://order.iplcm.online/client-download/Clash.for.Windows.Setup.0.8.6.exe)
+* 本站托管下载：[Clash for Windows 0.8.6](https://order.iplcm.online/client-download/Clash-Windows.7z)
 
 > 如遇下载失败请与我们联系，下载完成后尽可能使用管理员权限安装/运行
 

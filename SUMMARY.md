@@ -8,6 +8,6 @@
 * [macOS 相关](macos/README.md)
   * [Surge 使用教程](macos/surge.md)
 * [Windows 相关](windows/README.md)
-  * [ShadowsockR 使用教程](windows/shadowsockr-shi-yong-jiao-cheng.md)
+  * [ShadowsockR 使用教程](windows/shadowsockr.md)
   * [Clash 使用教程](windows/clash.md)
 

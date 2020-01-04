@@ -6,7 +6,7 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 
 ## Windows
 
-> 更多版本下载：https://download.iplc.wiki/附件/wiki/windows
+> 更多版本下载：[https://download.iplc.wiki/附件/wiki/windows](https://download.iplc.wiki/附件/wiki/windows)
 
 | 软件名称 | 下载地址 | Hash验证 |
 | :--- | :--- | :--- |

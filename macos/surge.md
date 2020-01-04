@@ -23,7 +23,7 @@ Surge for macOS 的授权是与 iOS 互不关联的，需要单独购买。
 ## 下载安装
 
 * 官方下载：[Surge Mac 3.2.1 \(Build 864\)](https://nssurge.com/mac/v3/Surge-latest.zip)
-* 本站托管：[Surge Mac 3.2.1 \(Build 915\)](https://download.iplc.wiki/show/wiki/macOS/Surge%203%202.zip)
+* 本站托管：[Surge Mac 3.2.1 \(Build 915\)](https://download.iplc.wiki/%E9%99%84%E4%BB%B6/wiki/macOS/Surge%203%202.zip)
 
 > 推荐使用本站托管版本，官网版本下载安装后仍需更新版本
 >

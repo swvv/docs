@@ -6,7 +6,7 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 
 ## Windows
 
-> 更多版本下载：[https://download.iplc.wiki/home/wiki/windows](https://download.iplc.wiki/home/wiki/windows)
+> 更多版本下载：https://download.iplc.wiki/附件/wiki/windows
 
 | 软件名称 | 下载地址 | Hash验证 |
 | :--- | :--- | :--- |
@@ -19,11 +19,11 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 
 ## macOS
 
-> 更多版本下载：[https://download.iplc.wiki/附件/wiki/windows](https://download.iplc.wiki/附件/wiki/windows)
+> 更多版本下载：[https://download.iplc.wiki/附件/wiki/macOS](https://download.iplc.wiki/附件/wiki/macOS/)
 
 | 软件名称 | 下载地址 | Hash验证 |
 | :--- | :--- | :--- |
-| Surge 3.3.2\(916\) | [下载](https://download.iplc.wiki/show/wiki/macOS/Surge%203%202.zip) | `809c2e17ee79093473b73f41290b02db42fa8a67` |
+| Surge 3.3.2\(916\) | [下载](https://download.iplc.wiki/%E9%99%84%E4%BB%B6/wiki/macOS/Surge%203%202.zip) | `809c2e17ee79093473b73f41290b02db42fa8a67` |
 |  |  |  |
 
 ## Android

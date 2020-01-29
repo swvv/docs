@@ -16,6 +16,7 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 | ShadowsockR 4.7.0 | [下载](https://download.iplc.wiki/s/8pkeipv5) | `f7241776eb8505f82e8a68fb0a53f6fa8e753377` |
 | ShadowsocksD 2020.3 | [下载](https://download.iplc.wiki/s/wc0rsgv2) | `6078d3c0cf2fbc0bd37dd0e5f2a285ba3d804ef9` |
 | Netch 1.3.6 | [下载](https://download.iplc.wiki/s/dt3ciy44) | `195dce0aa6bf3af0a4dc9e477c27d85eea62fa49` |
+| v2rayN 3.5 | [下载](https://download.iplc.wiki/s/qcg9x0lt) | `00e712ae95d08e8cceb320fc32fe808aa11c853e` |
 
 ## macOS
 
@@ -52,7 +53,10 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 
 ## Others
 
+> 更多版本下载：[https://download.iplc.wiki/s/706xruzi](https://download.iplc.wiki/s/706xruzi)
+
 | 软件名称 | 下载地址 | Hash验证 |
 | :--- | :--- | :--- |
-|  |  |  |
+| shadowsocks libev 3.3.4 | [下载](https://download.iplc.wiki/s/sjc6zbec) | `1a4447dcb51117e2c2afd3385f6a1c2b4147134d` |
+| simple obfs v0.0.5 | [下载](https://download.iplc.wiki/s/99p3rfv4) | `4d5261c809275b2f093ffb6b7fd10f85e9b36786` |
 

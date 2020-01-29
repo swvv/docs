@@ -24,7 +24,8 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 | 软件名称 | 下载地址 | Hash验证 |
 | :--- | :--- | :--- |
 | Surge 3.3.2\(925\) | [下载](https://download.iplc.wiki/s/ved3zvf4) | `0434ead2c26d5ad6cba3d97fe9169abfa0e7f5fc` |
-|  |  |  |
+| ClashX 1.17.1 | [下载](https://download.iplc.wiki/s/jq06pcwr) | `38d5581792c74679c70c6be3bc6bd2b240df004c` |
+| ShadowsocksX-NG v1.9.4 | [下载](https://download.iplc.wiki/s/dskyns60) | `679b376e3f30c216a075634234393df54bf08a0e` |
 
 ## Android
 
@@ -45,6 +46,4 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 | 软件名称 | 下载地址 | Hash验证 |
 | :--- | :--- | :--- |
 |  |  |  |
-
-
 

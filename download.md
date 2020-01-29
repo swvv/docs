@@ -29,10 +29,14 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 
 ## Android
 
+> 更多版本下载：[https://download.iplc.wiki/s/xk7q3ako](https://download.iplc.wiki/s/xk7q3ako)
+
 | 软件名称 | 下载地址 | Hash验证 |
 | :--- | :--- | :--- |
-|  |  |  |
-|  |  |  |
+| Clash 1.0.32 | [下载](https://download.iplc.wiki/s/aiyu6gej) | `5e1b4d947f7d16d8b13c2c1bc2d7a98420011fd7` |
+| Shadowsocks 5.0.3 | [下载](https://download.iplc.wiki/s/uinbhekm) | `25aabec3093d0aa011334302bb9e90ec314617a0` |
+| Maying 1.1.6 | [下载](https://download.iplc.wiki/s/ulzos0c3) | `f40605d89e39b2b9eece36ad1ab89e1b06430b76` |
+| ShadowsocksR 3.5.4 | [下载](https://download.iplc.wiki/s/mtajieab) | `0c48d8f5ba703702d1509de13915693fc786a42f` |
 
 ## iOS
 

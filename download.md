@@ -40,10 +40,13 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 
 ## iOS
 
-| 软件名称 | 下载地址 | Hash验证 |
-| :--- | :--- | :--- |
-|  |  |  |
-|  |  |  |
+| 软件名称 | 下载地址 |
+| :--- | :--- |
+| Quantumult | [https://apps.apple.com/us/app/quantumult/id1252015438](https://apps.apple.com/us/app/quantumult/id1252015438) |
+| Quantumult X | [https://apps.apple.com/us/app/quantumult-x/id1443988620](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| Shadowrocket | [https://apps.apple.com/us/app/shadowrocket/id932747118](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| Kitsunebi | [https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073) |
+| Surge 4 | [https://apps.apple.com/us/app/surge-4/id1442620678](https://apps.apple.com/us/app/surge-4/id1442620678) |
 
 ## Others
 

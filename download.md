@@ -59,4 +59,5 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 | :--- | :--- | :--- |
 | shadowsocks libev 3.3.4 | [下载](https://download.iplc.wiki/s/sjc6zbec) | `1a4447dcb51117e2c2afd3385f6a1c2b4147134d` |
 | simple obfs v0.0.5 | [下载](https://download.iplc.wiki/s/99p3rfv4) | `4d5261c809275b2f093ffb6b7fd10f85e9b36786` |
+| v2ray plugin android v1.3.0 | [下载](https://download.iplc.wiki/s/3cf4gqvc) | `9961324c6eb4726c489f03baaff19a848c0b6a17` |
 

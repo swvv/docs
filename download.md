@@ -15,7 +15,7 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 | Shadowsocks 4.1.9.0 | [下载](https://download.iplc.wiki/s/vf4csmhk) | `bbb9f9251c16b311c6c1b4a18f493ec48b6849f2` |
 | ShadowsockR 4.7.0 | [下载](https://download.iplc.wiki/s/8pkeipv5) | `f7241776eb8505f82e8a68fb0a53f6fa8e753377` |
 | ShadowsocksD 2020.3 | [下载](https://download.iplc.wiki/s/wc0rsgv2) | `6078d3c0cf2fbc0bd37dd0e5f2a285ba3d804ef9` |
-| Netch 1.3.6 | [下载](https://download.iplc.wiki/s/dt3ciy44) | `195dce0aa6bf3af0a4dc9e477c27d85eea62fa49` |
+| Netch 1.3.7 | [下载](https://download.iplc.wiki/s/uweq4f7t) | `a663fbe7168fa508e6f82bd7d89e8b6273465a7a` |
 | v2rayN 3.5 | [下载](https://download.iplc.wiki/s/qcg9x0lt) | `00e712ae95d08e8cceb320fc32fe808aa11c853e` |
 
 ## macOS

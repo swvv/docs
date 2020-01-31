@@ -20,7 +20,7 @@ description: 在 Windows 上通过 Clash for Windows 应用程序来配置 「�
 
 > 在此文章撰写时…  
 > Windows 10 LTSC 1809 64bit  
-> Clash for Windows 0.8.6
+> Clash for Windows 0.8.10
 
 ## 下载安装 <a id="download"></a>
 
@@ -31,7 +31,7 @@ description: 在 Windows 上通过 Clash for Windows 应用程序来配置 「�
 
 ## 获取订阅 <a id="updatesub"></a>
 
-通过[用户中心](https://order.iplcm.online/user)的一键导入 CFW 按钮来一键导入订阅
+通过[用户中心](https://qq.com.iplcm.club/user)的一键导入 CFW 按钮来一键导入订阅
 
 > 随着时间推逝网址可能失效，不过你可以访问 affcm.com 获取最新地址
 

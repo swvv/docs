@@ -6,17 +6,17 @@ description: 教程十分钟，少读十年书
 
 此处是「[厘米云](https://affcm.com)」的 WIKI
 
-### 关于
+### 关于 <a id="about"></a>
 
 「厘米云」采用IPLC内网专线, 安全不墙，不丢包，不阻断，延时稳定。本站只建议您使用IPLC节点，其他线路直接连接失败的问题一律不予处理，希望理解，也感谢您的支持。
 
-### 套餐简介
+### 套餐简介 <a id="price"></a>
 
 * 入门版：10元/月，每月 20GB 流量；端口限速 50Mbps \(半年付95折，年付9折\)；
 * 进阶版：30元/月，每月 70GB 流量；端口限速 80Mbps \(季付95折，半年付9折，年付85折\)；
 * 终极版：60元/月，每月 240GB 流量；端口限速120Mbps \(季付95折，半年付9折，年付85折\)；
 
-### 福利介绍
+### 福利介绍 <a id="gifts"></a>
 
 > 福利 2 与 3 不可同时享有，单账户仅可领取一次。
 
@@ -24,13 +24,13 @@ description: 教程十分钟，少读十年书
 2. 所有套餐均可工单领取 G Suite for Nonprofit 账户
 3. 所有年付均可工单领取 G Suite for Education 账户
 
-### 联系我们
+### 联系我们 <a id="contact"></a>
 
 * 公告： [@CmCloudChannel](https://t.me/CmCloudChannel)
 * 群组： [@CmCloudGroup](https://t.me/CmCloudGroup)
 * 邮箱： 322252@gmail.com
 
-### 订阅转换
+### 订阅转换 <a id="subtools"></a>
 
 由于自定义转换订阅地址安全性🔐尚不可确认，本站为维护搭建了开放使用的转换API，请大家尽快切换过来，避免其他第三方订阅无法订阅节点。
 
@@ -38,7 +38,7 @@ description: 教程十分钟，少读十年书
 
 _**自行部署请使用 gtary/subweb 镜像**_
 
-### 其他
+### 其他 <a id="other"></a>
 
 如果您累计充值大于 75 元, 请发送工单，管理员将给您提供 Apple Store ID \( 包含 quantumult shadowrocket 和 kitsunebi \)
 

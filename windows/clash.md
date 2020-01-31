@@ -55,7 +55,7 @@ description: 在 Windows 上通过 Clash for Windows 应用程序来配置 「�
 
 最后一步，切换到`General` 页面，打开 `System Proxy` 即可启用代理。
 
-![](../.gitbook/assets/qq20191218-203823.png)
+![](../.gitbook/assets/qq20200131-181113.png)
 
 ## 其他工具 <a id="other"></a>
 

@@ -20,7 +20,7 @@ description: 教程十分钟，少读十年书
 
 > 福利 2 与 3 不可同时享有，单账户仅可领取一次。
 
-1. 终极版餐赠送 Surge for Mac or iOS 授权，按照订购0/3/6/12月分别赠送0/1/2/3设备授权，授权时长等同套餐时长。
+1. 终极版餐赠送 Surge for Mac or iOS 授权，按照订购1/3/6/12月分别赠送0/1/2/3设备授权，授权时长等同套餐时长。
 2. 所有套餐均可工单领取 G Suite for Nonprofit 账户
 3. 所有年付均可工单领取 G Suite for Education 账户
 

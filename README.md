@@ -28,7 +28,7 @@ description: 教程十分钟，少读十年书
 
 * 公告： [@CmCloudChannel](https://t.me/CmCloudChannel)
 * 群组： [@CmCloudGroup](https://t.me/CmCloudGroup)
-* 邮箱： 322252@gmail.com
+* 邮箱： [322252@gmail.com](mailto:322252@gmail.com)
 
 ### 订阅转换 <a id="subtools"></a>
 

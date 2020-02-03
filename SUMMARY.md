@@ -2,7 +2,7 @@
 
 * [欢迎](README.md)
 * [客户端下载](download.md)
-* [常见问题](simplequestions/README.md)
+* [常见问题](chang-jian-wen-ti/README.md)
   * [FAQ](simplequestions/faq.md)
   * [中转设置](simplequestions/relay.md)
 * [macOS 相关](macos/README.md)

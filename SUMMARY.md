@@ -12,4 +12,7 @@
   * [ShadowsockR 使用教程](windows/shadowsockr.md)
 * [iOS 相关](ios-xiang-guan/README.md)
   * [Surge 使用教程](ios-xiang-guan/surge-shi-yong-jiao-cheng.md)
+* [Android 相关](android-xiang-guan/README.md)
+  * [Shadowsocks 使用教程](android-xiang-guan/shadowsocks-shi-yong-jiao-cheng.md)
+  * [Clash 使用教程](android-xiang-guan/clash-shi-yong-jiao-cheng.md)
 

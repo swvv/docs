@@ -10,4 +10,6 @@
 * [Windows 相关](windows/README.md)
   * [Clash 使用教程](windows/clash.md)
   * [ShadowsockR 使用教程](windows/shadowsockr.md)
+* [iOS 相关](ios-xiang-guan/README.md)
+  * [Surge 使用教程](ios-xiang-guan/surge-shi-yong-jiao-cheng.md)
 

@@ -64,7 +64,7 @@ Surge for iOS 已经更新到版本 4。由于所有 Surge 3 的付费用户都�
 
 ![](../.gitbook/assets/img_1305.PNG)
 
-点击「CmCLoud Surge CA Profile」，并安装
+点击「CmCloud Surge CA Profile」，并安装
 
 ![](../.gitbook/assets/img_1307.PNG)
 

@@ -10,7 +10,7 @@ description: 本教程已经写得很详细了，安装还出问题的话请自�
 
 | 软件名称 | 下载地址 | Hash验证 |
 | :--- | :--- | :--- |
-| Clash 0.8.10 | [下载](https://download.iplc.wiki/s/b1a37iq4) | `c8ee5b9979a3aacb195bde69bb7040f5d7aa43a4` |
+| Clash 0.8.11 | [下载](https://download.iplc.wiki/s/auqp8oi8) | `7779a10698a0312088aee3da984da6400d76a8e4` |
 | SSTap 1.0.9.7 | [下载](https://download.iplc.wiki/s/n0qipi5o) | `bf6360a0cdeba4b72d9bfebec3f242808bc0b1d6` |
 | Shadowsocks 4.1.9.2 | [下载](https://download.iplc.wiki/s/vf4csmhk) | `bbb9f9251c16b311c6c1b4a18f493ec48b6849f2` |
 | ShadowsockR 4.7.0 | [下载](https://download.iplc.wiki/s/8pkeipv5) | `f7241776eb8505f82e8a68fb0a53f6fa8e753377` |

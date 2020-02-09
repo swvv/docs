@@ -20,12 +20,12 @@ description: 在 Windows 上通过 Clash for Windows 应用程序来配置 「�
 
 > 在此文章撰写时…  
 > Windows 10 LTSC 1809 64bit  
-> Clash for Windows 0.8.10
+> Clash for Windows 0.8.11
 
 ## 下载安装 <a id="download"></a>
 
 * 最新 GitHub Releases：[Fndroid](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-* 本站托管下载：[Clash for Windows 0.8.10](https://download.iplc.wiki/s/b1a37iq4)
+* 本站托管下载：[Clash for Windows 0.8.11](https://download.iplc.wiki/s/auqp8oi8)
 
 > 如遇下载失败请与我们联系，下载完成后尽可能使用管理员权限安装/运行
 

@@ -7,6 +7,7 @@
   * [中转设置](simplequestions/relay.md)
 * [macOS 相关](macos/README.md)
   * [Surge 使用教程](macos/surge.md)
+  * [ClashX 使用教程](macos/clashx-shi-yong-jiao-cheng.md)
 * [Windows 相关](windows/README.md)
   * [Clash 使用教程](windows/clash.md)
   * [ShadowsockR 使用教程](windows/shadowsockr.md)
